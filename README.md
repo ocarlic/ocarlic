@@ -1,39 +1,55 @@
-### Olá, eu sou o Carli 👋
-##
-<!--
-**ocarlic/ocarlic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=ocarlic&color=006bed)
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 💼 &nbsp; Trabalhando como **Software Enginner** na <a href="https://www.linkedin.com/company/fretebras/mycompany/">Fretebras</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Ecossistema Web**.
 
-<div align="center">
-  <a href="https://github.com/ocarlic">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ocarlic&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocarlic&layout=compact&langs_count=7&theme=dark"/>
-</div>
- 
-<div style="display: inline_block"><br>
-    <img align="center" alt="Carli-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Carli-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Carli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
-  
-<div>
-    <a href="https://www.linkedin.com/in/victorcarli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:victorcarlibr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-  
-  ![Snake animation](https://github.com/ocarlic/ocarlic/blob/output/github-contribution-grid-snake.svg)
+<h3> :rocket: &nbsp;Minhas Skills </h3>
+
+**Aplicações e Dados**
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![Testing Library](https://img.shields.io/badge/-Testing%20Library-333333?style=flat&logo=testinglibrary)
+
+**Utilidades**
+
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/ocarlic">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ocarlic&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocarlic&layout=compact&langs_count=7&theme=dracula"/>
+</a>
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Victor Carli](https://img.shields.io/badge/-victorcarli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorcarli/)](https://www.linkedin.com/in/victorcarli/)
+[![Gmail Badge](https://img.shields.io/badge/-victorcarlibr@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorcarlibr@gmail.com)](mailto:victorcarlibr@gmail.com)
+[![GitHub Carli]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/ocarlic)
