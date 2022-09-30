@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Trabalhando como **Software Enginner** na <a href="https://www.linkedin.com/company/fretebras/mycompany/">Fretebras</a>
+- 💼 &nbsp; Trabalhando como **Software Engineer** na <a href="https://www.linkedin.com/company/fretebras/mycompany/">Fretebras</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Ecossistema Web**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
